@@ -1,0 +1,12 @@
+{
+    "name": "using-promise-then-callback-callback-misses-errors",
+    "version": "1.0.0",
+    "author": "Byte Archer <contact@bytearcher.com>",
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "2.3.3"
+    },
+    "scripts": {
+        "test": "mocha"
+    }
+}
